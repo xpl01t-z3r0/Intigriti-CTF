@@ -1,5 +1,6 @@
 
-![Halloween Store — first look]<img width="1415" height="867" alt="Halloween" src="https://github.com/user-attachments/assets/94991254-a231-46b7-aaf4-f62b1c81d124" />
+Halloween Store — first look
+<img width="1415" height="867" alt="Halloween" src="https://github.com/user-attachments/assets/94991254-a231-46b7-aaf4-f62b1c81d124" />
 
 # Halloween Store — Intigriti October 2026 Challenge Write-up
 
